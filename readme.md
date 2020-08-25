@@ -1,4 +1,9 @@
 Demonstration of an idea:
+
+`pip install sigdepsem`
+
+Python 3.8 required.
+
 # Signature Dependent Semantics
 
 There are two goals to the proposal:
