@@ -18,10 +18,6 @@ There are two goals to the proposal:
     ...     def __delitem__(self, key):
     ...         self.del_ = f"del {self.name}[{(*key,)}]"
     ... 
-    >>> C()[1,2,3]
-    Traceback (most recent call last):
-      File "<stdin>", line 1, in <module>
-    TypeError: __init__() missing 1 required positional argument: 'name'
     >>> C("c")[1,2,3]
     '(1, 2, 3)'
     ```
