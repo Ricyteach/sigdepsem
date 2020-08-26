@@ -1,4 +1,4 @@
-Demonstration of an idea:
+[Demonstration of an idea](https://mail.python.org/archives/list/python-ideas@python.org/message/GORFDMAEXHIB3BFXMNIYBEGZPFWQXMMC/):
 
 `pip install sigdepsem`
 
